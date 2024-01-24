@@ -7,4 +7,7 @@ Le milieu universitaire constitue un milieu priviligié pour l'accès à un savo
 
 ## Licence
 
-À venir!
+Ce travail est sous licence [Creative Commons 0 (domaine public)](https://creativecommons.org/publicdomain/zero/1.0/).
+
+![CC0](https://licensebuttons.net/l/zero/1.0/88x31.png)
+
