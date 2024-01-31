@@ -5,6 +5,11 @@ Je n'ai pas d'attentes par rapport à cet atelier.
 Je souhaite en apprendre plus sur les données ouvertes, les différentes pratiques, l'état de la littérature, etc. 
 Le milieu universitaire constitue un milieu priviligié pour l'accès à un savoir de qualité.
 
+## Scripts
+
+Les scripts de transformation, s'il y en a, seront ajoutés dans le dossier `scripts/`.
+L'ordre de traitement, le cas échéant, devra être indiqué comme préfixe de chaque script (ex. `01_premier-script.R`; `02_deuxième-script.R`).
+
 ## Données brutes
 
 Voire le sous-dossier `donnees/` à ce sujet.
