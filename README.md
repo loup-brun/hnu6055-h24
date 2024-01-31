@@ -13,6 +13,10 @@ Voire le sous-dossier `donnees/` à ce sujet.
 
 Les résultats (dossier `resultats/`) consistent en un décompte des notices parues par langue.
 
+## Figures
+
+Les figures consistent en des visualisations sous forme d'images.
+
 ## Licence
 
 À moins d'avis contraire, ce travail est sous licence [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/) (domaine public).
