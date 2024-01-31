@@ -7,11 +7,11 @@ Le milieu universitaire constitue un milieu priviligié pour l'accès à un savo
 
 ## Données brutes
 
-En provnance de Données Québec. Voire le sous-dossier à ce sujet.
+Voire le sous-dossier `donnees/` à ce sujet.
 
 ## Résultats
 
-Les résultats consistent en un décompte des notices parues par langue.
+Les résultats (dossier `resultats/`) consistent en un décompte des notices parues par langue.
 
 ## Licence
 
